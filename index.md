@@ -17,7 +17,6 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
   
  <hr>
  
@@ -28,7 +27,6 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
 <hr>
 <p><b>Notebook 3 (Convolutional Neural Networks (CNN)):</b> In this notebook you will learn about Convolutional Neural Networks (CNN).</p> 
 
@@ -37,7 +35,6 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
   <hr>
 <p><b>Notebook 4 (Recurrent Neural Networks (RNN)):</b> In this nottebook you will learn about Recurrent Neural Networks (RNN).</p>
 
@@ -46,7 +43,6 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
 <hr>
 
 <p><b>Notebook 5 (Transformers):</b> In this notebook you will learn about transformer networks. Transformers are the state of the art architecture used for NLP applications and sequnce modeling.</p>
@@ -56,7 +52,6 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
   <hr>
   
 <p><b>Notebook 6 (Additional Concepts):</b> In this notebook you will learn about some methods to enhance your model architectures, and some considerations that will help boost the training (depending on the application).</p>
@@ -66,5 +61,4 @@ feature_text: |
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </em></p>
-  <br/>
 <hr>
