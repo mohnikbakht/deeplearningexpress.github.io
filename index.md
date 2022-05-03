@@ -1,9 +1,8 @@
 ---
-title: Learning path:
+title: Welcome to my website
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Deep Learning Express
-  A quick deep learning head start from MLP to Transformers, BERT, and GPT-2
+  ## Hello world
 ---
-<!-- text: Through these 6 notebooks you will learn deep learning concepts and models and you will learn how to code deep learning models with PyTorch. 
- -->
+
+There isn't much going on here yet, but watch this space
