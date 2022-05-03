@@ -9,7 +9,7 @@ feature_text: |
 Through these 6 Google Colab notebooks you will learn necessary deep learning concepts and you will learn how to code deep learning models using PyTorch
 1. Notebook 1 (Key Concepts): In this notebook you will learn the required deep learning (and ML) concepts before diving into the model architectures.
 
-<p> To access the notebook in Google Colab -> 
+<p> &emsp To access the notebook in Google Colab -> 
 <a href="https://colab.research.google.com/drive/1n0r1hAhpwdl8y68NunA2fxIRDyjBQJTF?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
