@@ -24,7 +24,7 @@ plugins:
 url: 'https://mohnikbakht.github.io/deeplearningexpress.github.io/'
 baseurl: '/deeplearningexpress.github.io/'
 title: 'BOLD'
-description: 'This is my new website'
+description: 'Deep Learning Express'
 permalink: pretty
 logo: "/images/GTVertical_RGB.png"
 
