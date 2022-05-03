@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Made Easy
+<!-- title: Deep Learning Made Easy -->
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Deep Learning Express
