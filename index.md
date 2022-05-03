@@ -6,4 +6,4 @@ feature_text: |
   A quick head start for deep learning from MLP to Transformers, BERT, and GPT-2
 ---
 
-There isn't much going on here yet, but watch this space
+Through these 6 Google Colab notebooks you will learn necessary deep learning concepts and you will learn how to code deep learning models using PyTorch
