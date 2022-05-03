@@ -44,3 +44,20 @@ Through these 6 Google Colab notebooks you will learn necessary deep learning co
   </em></p>
   <br/>
 
+5. Notebook 5 (Transformers): In this notebook you will learn about transformer networks. Transformers are the state of the art architecture used for NLP applications and sequnce modeling. 
+
+  <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
+    <a href="https://colab.research.google.com/drive/1UYds1QPchIe3VfvYSk68JgmQE_3wgC6l?usp=sharing">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+  </em></p>
+  <br/>
+  
+6. Notebook 6 (Additional Concepts): In this notebook you will learn about some methods to enhance your model architectures, and some considerations that will help boost the training (depending on the application).
+
+  <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
+    <a href="https://colab.research.google.com/drive/1MUoHtdoo2IiXkYuOO0JqM4LP8ZpeL5N7?usp=sharing">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+  </em></p>
+  <br/>
