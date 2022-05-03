@@ -30,9 +30,11 @@ baseurl: /deeplearningexpress.github.io/      # place folder name if the site is
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
