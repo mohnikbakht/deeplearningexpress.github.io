@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Express
+title: Deep Learning Express 2
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Deep Learning Express
