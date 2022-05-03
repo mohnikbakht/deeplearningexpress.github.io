@@ -38,7 +38,6 @@ feature_text: |
 
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
   <p align="center">
-
     <a href="https://colab.research.google.com/drive/1IRWaOw-7Z9VCi20udvHaKggfbxQzH1Yz?usp=sharing">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
@@ -75,7 +74,7 @@ Machine Translation. </p>
 <p align="justify" style="color:#4863A0;"> BERT is mostly used for text classification tasks, while GPT-2 is great for text generation! Keep in mind that these models are very large in size! </p>
 
 <!--   <p><em> &emsp; To access the BERT example notebook in Google Colab <span>&#8594;</span> -->
-  <p align="center">
+  <p align="center"> BERT &emsp;
     <a href="https://colab.research.google.com/drive/1nxQtQhuo_-YoqWtX9cbC21s-Rig1vRNc?usp=sharing">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
@@ -84,7 +83,7 @@ Machine Translation. </p>
 
   
 <!--   <p><em> &emsp; To access the GPT-2 example notebook in Google Colab <span>&#8594;</span> -->
-  <p align="center">
+  <p align="center"> GPT-2 &emsp;
     <a href="https://colab.research.google.com/drive/1VznLN6nOVqMdZX_fmR2IvggxpflgIMeY?usp=sharing">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
