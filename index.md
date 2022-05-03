@@ -8,6 +8,8 @@ feature_text: |
 
 <p><em>Through these 6 Google Colab notebooks you will learn necessary deep learning concepts and you will learn how to code deep learning models using PyTorch</em></p>
 
+<hr>
+
 <p><b>Notebook 1 (Key Concepts):</b> In this notebook you will learn the required deep learning (and ML) concepts before diving into the model architectures.</p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
@@ -17,6 +19,8 @@ feature_text: |
   </em></p>
   <br/>
   
+ <hr>
+ 
 <p><b>Notebook 2 (Multi-Layer Perceptron (MLP)):</b> In this notebook you will learn about the simplest deep learning model, the Multi-Layer Perceptron (MLP) network.</p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
@@ -25,7 +29,7 @@ feature_text: |
     </a>
   </em></p>
   <br/>
-
+<hr>
 <p><b>Notebook 3 (Convolutional Neural Networks (CNN)):</b> In this notebook you will learn about Convolutional Neural Networks (CNN).</p> 
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
@@ -34,7 +38,7 @@ feature_text: |
     </a>
   </em></p>
   <br/>
-  
+  <hr>
 <p><b>Notebook 4 (Recurrent Neural Networks (RNN)):</b> In this nottebook you will learn about Recurrent Neural Networks (RNN).</p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
@@ -43,7 +47,7 @@ feature_text: |
     </a>
   </em></p>
   <br/>
-
+<hr>
 <p><b>Notebook 5 (Transformers):</b> In this notebook you will learn about transformer networks. Transformers are the state of the art architecture used for NLP applications and sequnce modeling.</p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
