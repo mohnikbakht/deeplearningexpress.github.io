@@ -48,6 +48,7 @@ feature_text: |
   </em></p>
   <br/>
 <hr>
+
 <p><b>Notebook 5 (Transformers):</b> In this notebook you will learn about transformer networks. Transformers are the state of the art architecture used for NLP applications and sequnce modeling.</p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
@@ -56,6 +57,7 @@ feature_text: |
     </a>
   </em></p>
   <br/>
+  <hr>
   
 <p><b>Notebook 6 (Additional Concepts):</b> In this notebook you will learn about some methods to enhance your model architectures, and some considerations that will help boost the training (depending on the application).</p>
 
@@ -65,3 +67,4 @@ feature_text: |
     </a>
   </em></p>
   <br/>
+<hr>
