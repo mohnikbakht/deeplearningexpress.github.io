@@ -33,7 +33,8 @@ feature_text: |
   </p>
   
 <hr>
-<palign="justify"><b>Notebook 3 (Convolutional Neural Networks (CNN)):</b> In this notebook you will learn about Convolutional Neural Networks (CNN).</p> 
+
+<p align="justify"><b>Notebook 3 (Convolutional Neural Networks (CNN)):</b> In this notebook you will learn about Convolutional Neural Networks (CNN).</p> 
 <p align="justify" style="color:#4863A0;"> If you want to do work with images, such as image recognition, object detection, face recognition, etc tasks CNN might be a good choice! </p>
 
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
