@@ -15,7 +15,7 @@ feature_text: |
 <!--   <p align="center"><em> &emsp; &emsp; Access the notebook</em></p> -->
   <p align="center">
     <a  href="https://colab.research.google.com/drive/1n0r1hAhpwdl8y68NunA2fxIRDyjBQJTF?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img  width="200"  src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
   
@@ -28,7 +28,7 @@ feature_text: |
 <!--   <p><em> &emsp; &emsp; Access the notebook in Google Colab </em></p> -->
   <p align="center">
     <a href="https://colab.research.google.com/drive/1AGhp2rOU9_zo6mRwifNUSmbLfxKAqkSn?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
   
@@ -39,7 +39,7 @@ feature_text: |
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
   <p align="center">
     <a href="https://colab.research.google.com/drive/1IRWaOw-7Z9VCi20udvHaKggfbxQzH1Yz?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
 <!--   </em></p> -->
@@ -51,7 +51,7 @@ Machine Translation. </p>
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
  <p align="center">
     <a href="https://colab.research.google.com/drive/12J34g2SyM-pT_vrabgQQBt_dH8Bcxu9D?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
  </p>
 <!--   </em></p> -->
@@ -63,7 +63,7 @@ Machine Translation. </p>
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
   <p align="center">
     <a href="https://colab.research.google.com/drive/1UYds1QPchIe3VfvYSk68JgmQE_3wgC6l?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
 <!--   </em></p> -->
@@ -76,7 +76,7 @@ Machine Translation. </p>
 <!--   <p><em> &emsp; To access the BERT example notebook in Google Colab <span>&#8594;</span> -->
   <p align="center"> BERT &emsp;
     <a href="https://colab.research.google.com/drive/1nxQtQhuo_-YoqWtX9cbC21s-Rig1vRNc?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
 <!--   </em></p> -->
@@ -85,7 +85,7 @@ Machine Translation. </p>
 <!--   <p><em> &emsp; To access the GPT-2 example notebook in Google Colab <span>&#8594;</span> -->
   <p align="center"> GPT-2 &emsp;
     <a href="https://colab.research.google.com/drive/1VznLN6nOVqMdZX_fmR2IvggxpflgIMeY?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
 <!--   </em></p> -->
@@ -98,7 +98,7 @@ Machine Translation. </p>
 <!--   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span> -->
   <p align="center">
     <a href="https://colab.research.google.com/drive/1MUoHtdoo2IiXkYuOO0JqM4LP8ZpeL5N7?usp=sharing">
-      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+      <img width="200" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
     </a>
   </p>
 <!--   </em></p> -->
