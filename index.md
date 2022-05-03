@@ -7,4 +7,6 @@ feature_text: |
 ---
 
 Through these 6 Google Colab notebooks you will learn necessary deep learning concepts and you will learn how to code deep learning models using PyTorch
-1.dasdas
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
