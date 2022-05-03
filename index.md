@@ -5,7 +5,6 @@ feature_text: |
   ## Deep Learning Express
   A quick deep learning head start from MLP to Transformers, BERT, and GPT-2
 ---
-
 Through these 6 notebooks you will learn deep learning concepts and models and you will learn how to code deep learning models with PyTorch. 
 
 1. Notebook 1: 
