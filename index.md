@@ -1,5 +1,5 @@
 ---
-title: Deep Learning Express 2
+title: Deep Learning Made Easy
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Deep Learning Express
@@ -7,3 +7,4 @@ feature_text: |
 ---
 
 Through these 6 Google Colab notebooks you will learn necessary deep learning concepts and you will learn how to code deep learning models using PyTorch
+1.dasdas
