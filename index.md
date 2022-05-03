@@ -11,6 +11,7 @@ feature_text: |
 <hr>
 
 <p><b>Notebook 1 (Key Concepts):</b> In this notebook you will learn the required deep learning (and ML) concepts before diving into the model architectures.</p>
+<p style="color:blue;"> If you want to do data visualization, data compression, encryption, or simple classification, MLP might be a good choice! </p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
     <a href="https://colab.research.google.com/drive/1n0r1hAhpwdl8y68NunA2fxIRDyjBQJTF?usp=sharing">
@@ -20,7 +21,7 @@ feature_text: |
   
  <hr>
  
-<p><b>Notebook 2 (Multi-Layer Perceptron (MLP)):</b> In this notebook you will learn about the simplest deep learning model, the Multi-Layer Perceptron (MLP) network.</p>
+<p><b>Notebook 2 (Multi-Layer Perceptron (MLP)):</b> In this notebook you will learn about the simplest deep learning model, the Multi-Layer Perceptron (MLP) network. </p>
 
   <p><em> &emsp; &emsp; To access the notebook in Google Colab <span>&#8594;</span>
     <a href="https://colab.research.google.com/drive/1AGhp2rOU9_zo6mRwifNUSmbLfxKAqkSn?usp=sharing">
