@@ -59,6 +59,23 @@ Machine Translation. </p>
   </em></p>
   <hr>
   
+<p><b>Notebook 5 extras (BERT & GPT-2):</b> In these two notebooks you will learn how to fine-tune two of the most powerful language models, BERT, and GPT-2. BERT is mostly used for text classification tasks, while GPT-2 is great for text generation!</p>  
+  
+  <p><em> &emsp; &emsp; To access the BERT example notebook in Google Colab <span>&#8594;</span>
+    <a href="https://colab.research.google.com/drive/1nxQtQhuo_-YoqWtX9cbC21s-Rig1vRNc?usp=sharing">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+  </em></p>
+
+  
+  <p><em> &emsp; &emsp; To access the GPT-2 example notebook in Google Colab <span>&#8594;</span>
+    <a href="https://colab.research.google.com/drive/1VznLN6nOVqMdZX_fmR2IvggxpflgIMeY?usp=sharing">
+      <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+  </em></p>
+  <hr>
+
+  
 <p><b>Notebook 6 (Additional Concepts):</b> In this notebook you will learn about some methods to enhance your model architectures, and some considerations that will help boost the training (depending on the application).</p>
 <p style="color:#4863A0;"> If you want to do work with images, such as image recognition, object detection, face recognition, etc tasks CNN might be a good choice! </p>
 
