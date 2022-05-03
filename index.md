@@ -59,8 +59,10 @@ Machine Translation. </p>
   </em></p>
   <hr>
   
-<p><b>Notebook 5 extras (BERT & GPT-2):</b> In these two notebooks you will learn how to fine-tune two of the most powerful language models, BERT, and GPT-2. BERT is mostly used for text classification tasks, while GPT-2 is great for text generation!</p>  
-  
+<p><b>Notebook 5 extras (BERT & GPT-2):</b> In these two notebooks you will learn how to fine-tune the two leading language models out there, BERT, and GPT-2. They are the same in that they are both based on the transformer architecture, but they are fundamentally different in that BERT has just the encoder blocks from the transformer, whilst GPT-2 has just the decoder blocks from the transformer.</p>  
+
+<p style="color:#4863A0;"> BERT is mostly used for text classification tasks, while GPT-2 is great for text generation! Keep in mind that these models are very large in size! </p>
+
   <p><em> &emsp; &emsp; To access the BERT example notebook in Google Colab <span>&#8594;</span>
     <a href="https://colab.research.google.com/drive/1nxQtQhuo_-YoqWtX9cbC21s-Rig1vRNc?usp=sharing">
       <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
